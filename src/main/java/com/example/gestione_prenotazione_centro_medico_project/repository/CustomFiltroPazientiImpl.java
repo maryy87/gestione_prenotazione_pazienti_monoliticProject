@@ -15,7 +15,7 @@ import java.util.List;
 
 @Component
 public class CustomFiltroPazientiImpl implements CustomPazientiRepository {
-
+/***/
     @Autowired
     final EntityManager entityManager;
 
